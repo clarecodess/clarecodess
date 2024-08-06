@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Clare Oparo 👋🏾</h1>
+  <h1>Hi, I'm Clare Oparo, and I am a full-stack developer 👋🏾</h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRobnNsbjIydWx6azhzMzNwa2VhOW1tenJ0bzJsNXh6eXNhY2l4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy-downsized.gif">
 </div>
 
@@ -21,12 +21,12 @@
 
 ---
 ### 👩‍💻 About Me
-I am a Ugandan fullstack developer based in Nairobi, Kenya. 
+I am a Ugandan full-stack developer based in Nairobi, Kenya. 
 - I enjoy building wellness experiences on mobile and web.
 
 - Beyond coding, I manage the <a href=https://kuvaafrica.org/>Kuva Africa</a> community where I empower other African women with resources in tech, business, leadership and wellness.
 
-- Before transitioning to tech, I was a project manager and content creator for 5+ years.
+- Before transitioning to tech, I was a project manager and content creator for over years.
 ---
 ### 🛠️ Languages and Tools
 #### Front-End Languages
