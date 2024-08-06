@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi, I'm Clare 👋🏾</h1>
+  <h1>Hi, I'm Clare Oparo 👋🏾</h1>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRobnNsbjIydWx6azhzMzNwa2VhOW1tenJ0bzJsNXh6eXNhY2l4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy-downsized.gif">
 </div>
 
