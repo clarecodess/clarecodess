@@ -1,5 +1,5 @@
-Hello! I’m Clare and my journey into tech began at Moringa School. I learned Full Stack Development after several enriching years in project management.
+Hello! I’m Clare, a fullstack developer based in Nairobi, Kenya. I currently work at Skincerely Glow, building wellness experiences on mobile and web.
 
-On the frontend, I'm probably building with JavaScript. On the backend, it's probably Python.
+Beyond coding, I manage the <a href=https://kuvaafrica.org/>Kuva Africa</a> community where I empower other African women with resources in tech, business, leadership and wellness.
 
-Beyond coding, you’ll find me managing the <a href=https://kuvaafrica.org/>Kuva Africa</a> community where I empower other African women with resources in tech, business, leadership and wellness.
+Before that I was a project manager and content creator for 5 years.
