@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/clare-oparo-software-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge">
   </a>
+  <a href="mailto:clarecodess@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
  <a href="https://x.com/clare_codes">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
  </a>
