@@ -23,7 +23,7 @@
 ### 👩‍💻 About Me
 My background is in full-stack software engineering. I currently work on a fintech product team where we help African businesses process cross-border payments in 10+ currencies using 30+ payment methods. 
 
-- Beyond coding, I learn AGI and AI Safety in public and share weekly recaps in a newsletter,<a href='https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7345459482996441088'>Puzzle Pieces.</a> 
+Beyond coding, I learn AGI and AI Safety in public and share weekly recaps in a newsletter,<a href='https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7345459482996441088'> Puzzle Pieces.</a> 
 
 ---
 ### 🛠️ Languages and Tools
