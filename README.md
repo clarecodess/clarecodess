@@ -21,12 +21,10 @@
 
 ---
 ### 👩‍💻 About Me
-I am a Ugandan full-stack developer based in Nairobi, Kenya. 
-- I enjoy building wellness experiences on mobile and web.
+My background is in full-stack software engineering. I currently work on a fintech product team where we help African businesses process cross-border payments in 10+ currencies using 30+ payment methods. 
 
-- Beyond coding, I manage the <a href=https://kuvaafrica.org/>Kuva Africa</a> community where I empower African women with resources in tech, business, leadership and wellness.
+- Beyond coding, I learn AGI and AI Safety in public and share weekly recaps in a newsletter,<a href=https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7345459482996441088>Puzzle Pieces.</a> 
 
-- Before transitioning to tech, I was a project manager and content creator for over 5 years.
 ---
 ### 🛠️ Languages and Tools
 #### Front-End Languages
