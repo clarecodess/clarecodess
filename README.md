@@ -21,7 +21,7 @@
 
 ---
 ### 👩‍💻 About Me
-My background is in full-stack software engineering. I currently work in Faith & AI Ethics, helping organizations build Responsible AI systems. Previously, I<a href='https://www.linkedin.com/in/coparo/'>worked</a> on a fintech product team where we helped African businesses process cross-border payments in 10+ currencies using 30+ payment methods.  
+My background is in full-stack software engineering. I currently work in Faith & AI Ethics, helping organizations build Responsible AI systems. Previously, I <a href='https://www.linkedin.com/in/coparo/'>worked</a> on a fintech product team where we helped African businesses process cross-border payments in 10+ currencies using 30+ payment methods.  
 
 ---
 ### 🛠️ Languages and Tools
