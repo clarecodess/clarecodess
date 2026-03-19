@@ -21,9 +21,7 @@
 
 ---
 ### 👩‍💻 About Me
-My background is in full-stack software engineering. I currently <a href='https://www.linkedin.com/in/coparo/'>work</a> on a fintech product team where we help African businesses process cross-border payments in 10+ currencies using 30+ payment methods. 
-
-Beyond coding, I learn AGI and AI Safety in public and share weekly recaps in a newsletter,<a href='https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7345459482996441088'> Puzzle Pieces.</a> 
+My background is in full-stack software engineering. I currently work in Faith & AI Ethics, helping organizations build Responsible AI systems. Previously, I<a href='https://www.linkedin.com/in/coparo/'>worked</a> on a fintech product team where we helped African businesses process cross-border payments in 10+ currencies using 30+ payment methods.  
 
 ---
 ### 🛠️ Languages and Tools
